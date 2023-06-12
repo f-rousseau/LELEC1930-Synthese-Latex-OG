@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021 - Flatpak)  (format=lualatex 2021.10.11)  12 JUN 2023 11:38
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021 - Flatpak)  (format=lualatex 2021.10.11)  12 JUN 2023 14:37
  restricted system commands enabled.
 **synthese.tex
 (./synthese.tex
@@ -750,63 +750,58 @@ File: img/rayonnement2.png Graphic file (type png)
 <use img/rayonnement2.png>
 Package luatex.def Info: img/rayonnement2.png  used on input line 83.
 (luatex.def)             Requested size: 150.14671pt x 100.63127pt.
-
-Overfull \hbox (2.60799pt too wide) in paragraph at lines 77--88
-[]$[]$$[]$ $[]$ 
- []
-
 <img/dipole.png, id=101, 523.9575pt x 198.7425pt>
 File: img/dipole.png Graphic file (type png)
 <use img/dipole.png>
-Package luatex.def Info: img/dipole.png  used on input line 97.
+Package luatex.def Info: img/dipole.png  used on input line 94.
 (luatex.def)             Requested size: 350.33727pt x 132.88991pt.
-[19<./img/champAntenne.png><./img/TEM.png><./img/rayonnement.png><./img/rayonnem
-ent2.png>]
+ [19<./img/champAntenne.png><./img/TEM.png><./img/rayonnement.png><./img/rayonne
+ment2.png>]
 <img/dipole1.png, id=105, 207.02344pt x 231.11343pt>
 File: img/dipole1.png Graphic file (type png)
 <use img/dipole1.png>
-Package luatex.def Info: img/dipole1.png  used on input line 104.
+Package luatex.def Info: img/dipole1.png  used on input line 101.
 (luatex.def)             Requested size: 150.14671pt x 167.6217pt.
 <img/dipole2.png, id=106, 435.87843pt x 314.67563pt>
 File: img/dipole2.png Graphic file (type png)
 <use img/dipole2.png>
-Package luatex.def Info: img/dipole2.png  used on input line 109.
+Package luatex.def Info: img/dipole2.png  used on input line 106.
 (luatex.def)             Requested size: 200.19435pt x 144.52686pt.
 
-Overfull \hbox (50.05144pt too wide) in paragraph at lines 102--116
+Overfull \hbox (50.05144pt too wide) in paragraph at lines 99--110
 []$[]$$[]$
  []
 
 <img/endfire.png, id=107, 496.85625pt x 243.15843pt>
 File: img/endfire.png Graphic file (type png)
 <use img/endfire.png>
-Package luatex.def Info: img/endfire.png  used on input line 122.
+Package luatex.def Info: img/endfire.png  used on input line 116.
 (luatex.def)             Requested size: 300.29344pt x 146.96474pt.
 [20<./img/dipole.png><./img/dipole1.png><./img/dipole2.png><./img/endfire.png>]
 <img/yagi.png, id=111, 320.69812pt x 266.49562pt>
 File: img/yagi.png Graphic file (type png)
 <use img/yagi.png>
-Package luatex.def Info: img/yagi.png  used on input line 130.
+Package luatex.def Info: img/yagi.png  used on input line 124.
 (luatex.def)             Requested size: 175.17244pt x 145.56863pt.
 <img/yagi2.png, id=112, 512.66531pt x 209.28188pt>
 File: img/yagi2.png Graphic file (type png)
 <use img/yagi2.png>
-Package luatex.def Info: img/yagi2.png  used on input line 131.
+Package luatex.def Info: img/yagi2.png  used on input line 125.
 (luatex.def)             Requested size: 275.26772pt x 112.37184pt.
 <img/parabole.png, id=113, 325.215pt x 265.74281pt>
 File: img/parabole.png Graphic file (type png)
 <use img/parabole.png>
-Package luatex.def Info: img/parabole.png  used on input line 140.
+Package luatex.def Info: img/parabole.png  used on input line 134.
 (luatex.def)             Requested size: 225.21626pt x 184.03584pt.
 <img/parabole2.png, id=114, 351.56343pt x 295.85532pt>
 File: img/parabole2.png Graphic file (type png)
 <use img/parabole2.png>
-Package luatex.def Info: img/parabole2.png  used on input line 141.
+Package luatex.def Info: img/parabole2.png  used on input line 135.
 (luatex.def)             Requested size: 225.21626pt x 189.52731pt.
 <img/reseauAntennes.png, id=115, 530.73282pt x 289.83281pt>
 File: img/reseauAntennes.png Graphic file (type png)
 <use img/reseauAntennes.png>
-Package luatex.def Info: img/reseauAntennes.png  used on input line 147.
+Package luatex.def Info: img/reseauAntennes.png  used on input line 141.
 (luatex.def)             Requested size: 350.33727pt x 191.3212pt.
 ) [21<./img/yagi.png><./img/yagi2.png><./img/parabole.png><./img/parabole2.png>] [22<./img/reseauAntennes.png>]
 \openout2 = Sections/Modulation.aux
@@ -1061,10 +1056,10 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of LuaTeX's memory you used:
  7278 strings out of 478531
  125086,552014 words of node,token memory allocated
- 4952 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 4 dir, 250 glue, 4 kern, 1 penalty, 2 glyph, 1174 a
+ 4959 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 4 dir, 251 glue, 4 kern, 1 penalty, 2 glyph, 1174 a
 ttribute, 57 glue_spec, 169 attribute_list, 3 write nodes
-   avail lists: 2:3576,3:363,4:174,5:649,6:92,7:5148,8:42,9:737,10:6,11:387
+   avail lists: 2:3576,3:363,4:174,5:649,6:92,7:5148,8:42,9:737,10:8,11:387
  26258 multiletter control sequences out of 65536+600000
  71 fonts using 6461287 bytes
  68i,17n,71p,521b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1081,7 +1076,7 @@ nts/type1/public/amsfonts/cm/cmr8.pfb></app/texlive/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmsy8.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.p
 fb>
-Output written on synthese.pdf (50 pages, 7567850 bytes).
+Output written on synthese.pdf (50 pages, 7568000 bytes).
 
 PDF statistics: 325 PDF objects out of 1000 (max. 8388607)
  155 compressed objects within 2 object streams

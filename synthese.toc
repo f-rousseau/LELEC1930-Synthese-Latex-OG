@@ -24,10 +24,10 @@
 \contentsline {subsection}{\numberline {2.10}Fibre optique}{15}{}%
 \contentsline {subsubsection}{\numberline {2.10.1}Manières de gérer les modes}{15}{}%
 \contentsline {subsubsection}{\numberline {2.10.2}Transmission dans une fibre optique}{16}{}%
-\contentsline {section}{\numberline {3}Propagation atmosphérique et Antennes}{17}{}%
-\contentsline {subsection}{\numberline {3.1}Ondes direct}{17}{}%
+\contentsline {section}{\numberline {3}Propagation atmosphérique et antennes}{17}{}%
+\contentsline {subsection}{\numberline {3.1}Ondes directe}{17}{}%
 \contentsline {subsection}{\numberline {3.2}Ondes de sol}{17}{}%
-\contentsline {subsection}{\numberline {3.3}onde ionosphérique}{17}{}%
+\contentsline {subsection}{\numberline {3.3}Onde ionosphériques}{17}{}%
 \contentsline {subsection}{\numberline {3.4}Onde par satellite}{18}{}%
 \contentsline {subsection}{\numberline {3.5}Antennes}{19}{}%
 \contentsline {subsubsection}{\numberline {3.5.1}Dipole $\lambda /2$}{20}{}%
